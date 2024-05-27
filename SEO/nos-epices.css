@@ -1,0 +1,23 @@
+body{
+background: rgb(255, 255, 198);
+
+}
+
+h1{
+    display: flex;
+    font-size: 50px;
+    color:black;
+    justify-content: center;
+}
+
+.epices{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+}
